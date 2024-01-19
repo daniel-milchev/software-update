@@ -2,7 +2,7 @@
 
 # Eclipse Kanto - Software Update
 
-[![Coverage](https://github.com/eclipse-kanto/software-update/wiki/coverage.svg)](#)
+[![Coverage](https://github.com/daniel-milchev/software-update/wiki/coverage.svg)](#)
 
 Software update on a device via script enables updates of any kind of software, predefined in your script. You can monitor the install and download process and resume it on start up.
 
